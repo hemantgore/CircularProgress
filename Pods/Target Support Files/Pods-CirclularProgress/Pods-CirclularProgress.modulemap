@@ -1,0 +1,6 @@
+framework module Pods_CirclularProgress {
+  umbrella header "Pods-CirclularProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}
